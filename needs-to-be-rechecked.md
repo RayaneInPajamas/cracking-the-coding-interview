@@ -16,3 +16,8 @@ void permutation(String str, String prefix) {
     }
 }
 ```
+
+- exercise 11 & 12 from Big O notation
+
+### notes
+- fib(n) is O(2^n)
